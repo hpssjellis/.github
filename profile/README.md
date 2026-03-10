@@ -18,9 +18,12 @@ We specialize in **On-Device Machine Learning (TinyML)** with a focus on browser
 ## 🛠 Active Projects & Templates
 We provide research-grade templates designed for high-performance and educational clarity:
 
+
+<!--
 * **[WebSerial-Trainer]**: A boilerplate for training models directly in a Chrome/Edge browser and pushing weights to MCUs via WebSerial.
 * **[Transparent-TFJS-Core]**: Clean, vanilla JavaScript implementations of neural networks without heavy CSS or frameworks.
 * **[MCU-Edge-Inference]**: Optimized C++/Arduino templates for XIAO and Portenta hardware.
+-->
 
 ---
 
@@ -35,7 +38,6 @@ To maintain clarity for both researchers and students, all lab repositories foll
 ## 🤝 Collaboration
 We collaborate with industry leaders and academic researchers to bring Edge AI into the K-12 and hobbyist ecosystem. 
 
-**Chair:** TinyML4K12  
 **Member:** TinyML4D / MLSys Community  
 
 ---
